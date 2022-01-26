@@ -1,0 +1,51 @@
+C:\Users\Пользователь\source\repos\ThisGym\ThisGym\bin\Debug\ThisGym.exe.config
+C:\Users\Пользователь\source\repos\ThisGym\ThisGym\bin\Debug\ThisGym.exe
+C:\Users\Пользователь\source\repos\ThisGym\ThisGym\bin\Debug\ThisGym.pdb
+C:\Users\Пользователь\source\repos\ThisGym\ThisGym\obj\Debug\ThisGym.csprojAssemblyReference.cache
+C:\Users\Пользователь\source\repos\ThisGym\ThisGym\obj\Debug\MainWindow.g.cs
+C:\Users\Пользователь\source\repos\ThisGym\ThisGym\obj\Debug\App.g.cs
+C:\Users\Пользователь\source\repos\ThisGym\ThisGym\obj\Debug\ThisGym_MarkupCompile.cache
+C:\Users\Пользователь\source\repos\ThisGym\ThisGym\obj\Debug\ThisGym_MarkupCompile.lref
+C:\Users\Пользователь\source\repos\ThisGym\ThisGym\obj\Debug\MainWindow.baml
+C:\Users\Пользователь\source\repos\ThisGym\ThisGym\obj\Debug\ThisGym.g.resources
+C:\Users\Пользователь\source\repos\ThisGym\ThisGym\obj\Debug\ThisGym.Properties.Resources.resources
+C:\Users\Пользователь\source\repos\ThisGym\ThisGym\obj\Debug\ThisGym.csproj.GenerateResource.cache
+C:\Users\Пользователь\source\repos\ThisGym\ThisGym\obj\Debug\ThisGym.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\ThisGym\ThisGym\obj\Debug\ThisGym.exe
+C:\Users\Пользователь\source\repos\ThisGym\ThisGym\obj\Debug\ThisGym.pdb
+C:\Users\Professional\source\repos\ThisGym\ThisGym\bin\Debug\ThisGym.exe.config
+C:\Users\Professional\source\repos\ThisGym\ThisGym\bin\Debug\ThisGym.exe
+C:\Users\Professional\source\repos\ThisGym\ThisGym\bin\Debug\ThisGym.pdb
+C:\Users\Professional\source\repos\ThisGym\ThisGym\obj\Debug\ThisGym.csprojAssemblyReference.cache
+C:\Users\Professional\source\repos\ThisGym\ThisGym\obj\Debug\MainWindow.g.cs
+C:\Users\Professional\source\repos\ThisGym\ThisGym\obj\Debug\App.g.cs
+C:\Users\Professional\source\repos\ThisGym\ThisGym\obj\Debug\ThisGym_MarkupCompile.cache
+C:\Users\Professional\source\repos\ThisGym\ThisGym\obj\Debug\ThisGym_MarkupCompile.lref
+C:\Users\Professional\source\repos\ThisGym\ThisGym\obj\Debug\MainWindow.baml
+C:\Users\Professional\source\repos\ThisGym\ThisGym\obj\Debug\ThisGym.g.resources
+C:\Users\Professional\source\repos\ThisGym\ThisGym\obj\Debug\ThisGym.Properties.Resources.resources
+C:\Users\Professional\source\repos\ThisGym\ThisGym\obj\Debug\ThisGym.csproj.GenerateResource.cache
+C:\Users\Professional\source\repos\ThisGym\ThisGym\obj\Debug\ThisGym.csproj.CoreCompileInputs.cache
+C:\Users\Professional\source\repos\ThisGym\ThisGym\obj\Debug\ThisGym.exe
+C:\Users\Professional\source\repos\ThisGym\ThisGym\obj\Debug\ThisGym.pdb
+D:\яУнивер\опи\лаба 1шт\ThisGym\ThisGym\bin\Debug\ThisGym.exe.config
+D:\яУнивер\опи\лаба 1шт\ThisGym\ThisGym\bin\Debug\ThisGym.exe
+D:\яУнивер\опи\лаба 1шт\ThisGym\ThisGym\bin\Debug\ThisGym.pdb
+D:\яУнивер\опи\лаба 1шт\ThisGym\ThisGym\obj\Debug\MainWindow.g.cs
+D:\яУнивер\опи\лаба 1шт\ThisGym\ThisGym\obj\Debug\App.g.cs
+D:\яУнивер\опи\лаба 1шт\ThisGym\ThisGym\obj\Debug\ThisGym_MarkupCompile.cache
+D:\яУнивер\опи\лаба 1шт\ThisGym\ThisGym\obj\Debug\ThisGym_MarkupCompile.lref
+D:\яУнивер\опи\лаба 1шт\ThisGym\ThisGym\obj\Debug\MainWindow.baml
+D:\яУнивер\опи\лаба 1шт\ThisGym\ThisGym\obj\Debug\ThisGym.g.resources
+D:\яУнивер\опи\лаба 1шт\ThisGym\ThisGym\obj\Debug\ThisGym.Properties.Resources.resources
+D:\яУнивер\опи\лаба 1шт\ThisGym\ThisGym\obj\Debug\ThisGym.csproj.GenerateResource.cache
+D:\яУнивер\опи\лаба 1шт\ThisGym\ThisGym\obj\Debug\ThisGym.csproj.CoreCompileInputs.cache
+D:\яУнивер\опи\лаба 1шт\ThisGym\ThisGym\obj\Debug\ThisGym.exe
+D:\яУнивер\опи\лаба 1шт\ThisGym\ThisGym\obj\Debug\ThisGym.pdb
+D:\яУнивер\опи\лаба 1шт\ThisGym\ThisGym\obj\Debug\AddSlaveWin.g.cs
+D:\яУнивер\опи\лаба 1шт\ThisGym\ThisGym\obj\Debug\AddMasterWin.g.cs
+D:\яУнивер\опи\лаба 1шт\ThisGym\ThisGym\obj\Debug\AddSlaveWin.baml
+D:\яУнивер\опи\лаба 1шт\ThisGym\ThisGym\obj\Debug\AddMasterWin.baml
+D:\яУнивер\опи\лаба 1шт\ThisGym\ThisGym\obj\Debug\ThisGym.csproj.AssemblyReference.cache
+D:\яУнивер\опи\лаба 1шт\ThisGym\ThisGym\obj\Debug\ReassignSlaveWin.g.cs
+D:\яУнивер\опи\лаба 1шт\ThisGym\ThisGym\obj\Debug\ReassignSlaveWin.baml
