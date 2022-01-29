@@ -16,6 +16,7 @@
                 <Label Content="Отчество:" HorizontalAlignment="Left" VerticalAlignment="Top" Width="63" Height="23" Canvas.Top="60" Padding="5,2,5,5" VerticalContentAlignment="Center" HorizontalContentAlignment="Right"/>
                 <TextBox HorizontalAlignment="Left" Name="GymMasterFathername_TB" Height="23" TextWrapping="Wrap" Text="" VerticalAlignment="Center" Width="234" Canvas.Left="68" Canvas.Top="60" VerticalContentAlignment="Center"/>
                 <Button Content="Искать" x:Name="SearchMaster_B" HorizontalAlignment="Left" VerticalAlignment="Top" Width="110" Height="23" Canvas.Left="307" Canvas.Top="4" Click="SearchMaster_B_Click"/>
+                <Image Height="51" Canvas.Left="340" Canvas.Top="32" Width="52" Source="BigFloppa.bmp"/>
             </Canvas>
         </GroupBox>
         <GroupBox Header="Клиент" HorizontalAlignment="Left" Height="110" VerticalAlignment="Top" Width="444" Canvas.Left="452" Canvas.Top="10">
