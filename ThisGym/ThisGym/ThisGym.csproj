@@ -118,5 +118,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <Resource Include="pngs\BigFloppa.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="BigFloppa.bmp" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

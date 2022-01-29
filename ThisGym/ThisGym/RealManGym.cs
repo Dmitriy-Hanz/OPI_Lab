@@ -20,7 +20,6 @@ namespace ThisGym
 
         public void ConnectionCheck()
         {
-
             Configuration config = ConfigurationManager.OpenExeConfiguration(ConfigurationUserLevel.None);
             ConnectionStringsSection connectionStringsSection = (ConnectionStringsSection)config.GetSection("connectionStrings");
 
